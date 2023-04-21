@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class PieChartTimer : MonoBehaviour
+public class SmoothPie : MonoBehaviour
 {
     Material m_PieChart;
     const string PIE_FRACTION = "_Fraction";
